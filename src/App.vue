@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/tiger.jpg">
-  <img alt="Vue logo" src="./assets/sq.jpg">
+  <img alt="Vue logo" src="./assets/tiger.jpg" style="width: 50vw;">
+  <img alt="Vue logo" src="./assets/sq.jpg" style="width: 50vw;">
   <HelloWorld msg="Welcome to My Portfolio"/>
 </template>
 
