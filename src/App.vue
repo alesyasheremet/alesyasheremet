@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/bird.jpg">
+  <img alt="Vue logo" src="./assets/tiger.jpg">
   <img alt="Vue logo" src="./assets/sq.jpg">
   <HelloWorld msg="Welcome to My Portfolio"/>
 </template>
